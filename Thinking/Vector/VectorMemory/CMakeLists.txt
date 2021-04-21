@@ -1,7 +1,7 @@
 # cmake需要的最低版本
 cmake_minimum_required (VERSION 3.12)
 # 项目名
-project(ArrayList)
+project(VectorMemory)
 
 # 设置生成的目标可执行文件路径
 if(MSVC)
